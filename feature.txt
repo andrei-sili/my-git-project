@@ -1,3 +1,3 @@
 Dies ist eine neue Datei im Branch feature-a.
 Vitalii's new row, Contributors
-Vitalii changes
+Andrei changes
