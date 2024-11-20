@@ -2,4 +2,5 @@ Dies ist eine neue Datei im Branch feature-a.
 Vitalii's new row, Contributors
 Andrei changes
 Andrei new changes
-Vitalii New Conflict
+Vitalii New Conflictconflict branch master
+conflict branch feature-b
