@@ -1,3 +1,1 @@
-Hallo, Git!
-Das ist mein erstes Projekt.
-neue aussage
+Hi, Git! Ein schönes Project!
